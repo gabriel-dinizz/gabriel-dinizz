@@ -6,5 +6,4 @@ about me
 │    software developer at encora, backend and cloud                                             
 │▸ learning
     ┗ ▸  docker
-      ▸  python 
-      ▸  cloud
+      ▸  parallel programming
